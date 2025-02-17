@@ -25,8 +25,8 @@ author:
   avatar           : "JulioOct2023.jpg"
   name             : "Julio Caceres Gonzales"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Subfactors and more"
+  location         : # URL
   employer         : "Vanderbilt University"
   uri              : # URL
   email            : "julio.e.caceres.gonzales@vanderbilt.edu" 
