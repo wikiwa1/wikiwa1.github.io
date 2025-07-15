@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-If file does not load below, <a href="{{ site.baseurl }}/files/Resume_Onepage.pdf">try downloading (pdf).</a>
+<label for="cv-select">Choose CV version:</label>
+<select id="cv-select" onchange="document.getElementById('pdf-embed').src=this.value;">
+  <option value="{{ site.baseurl }}/files/2025-professional-cv.pdf">Professional CV</option>
+  <option value="{{ site.baseurl }}/files/2024-academic-cv.pdf">Academic CV</option>
+</select>
+
+If file does not load below, <a href="{{ site.baseurl }}/files/2025-professional-cv.pdf">try downloading (pdf).</a>
 
 <embed src="{{ site.baseurl }}/files/Resume_Onepage.pdf" width="650" height="800" type='application/pdf'>
