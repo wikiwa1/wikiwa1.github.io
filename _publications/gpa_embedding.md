@@ -3,7 +3,7 @@ title: "Graph planar algebra embeddings and infinite depth subfactors"
 collection: publications
 category: preprints
 permalink: 
-excerpt: 'A graph planar algebra embedding theorem for commuting square subfactors.'
+excerpt: 
 date: 2024-10-18
 venue: 'ArXiv'
 slidesurl: ##
