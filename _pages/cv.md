@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="white-space: nowrap;">
+<span style="display: flex; align-items: center; gap: 0.5em; margin-bottom: 1em;">
   <label for="cv-select">Choose CV version:</label>
   <select id="cv-select" onchange="document.getElementById('pdf-embed').src=this.value; document.getElementById('cv-download-link').href=this.value;">
     <option value="{{ site.baseurl }}/files/2025-professional-cv.pdf">Professional CV</option>
