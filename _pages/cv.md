@@ -17,4 +17,4 @@ redirect_from:
 
 If file does not load below, <a href="{{ site.baseurl }}/files/2025-professional-cv.pdf">try downloading (pdf).</a>
 
-<embed src="{{ site.baseurl }}/files/Resume_Onepage.pdf" width="650" height="800" type='application/pdf'>
+<embed id="pdf-embed" src="{{ site.baseurl }}/files/2025-professional-cv.pdf" width="650" height="800" type='application/pdf'>
