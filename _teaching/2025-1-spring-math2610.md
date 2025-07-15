@@ -4,6 +4,6 @@ collection: teaching
 type: "Instructor"
 permalink: 
 venue: "Vanderbilt University, Department of Mathematics"
-date: "Spring 2025"
+date: 2025-01-01
 location: 
 ---

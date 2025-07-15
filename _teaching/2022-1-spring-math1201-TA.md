@@ -4,6 +4,6 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: 
 venue: "Vanderbilt University, Department of Mathematics"
-date: "Spring 2022"
+date: 2022-01-01
 location: 
 ---
