@@ -13,7 +13,7 @@ redirect_from:
   <label for="cv-select">Choose CV version:</label>
   <select id="cv-select" onchange="document.getElementById('pdf-embed').src=this.value; document.getElementById('cv-download-link').href=this.value;">
     <option value="{{ site.baseurl }}/files/2025-professional-cv.pdf">Professional CV</option>
-    <option value="{{ site.baseurl }}/files/2024-academic-cv.pdf">Academic CV</option>
+    <option value="{{ site.baseurl }}/files/2025-academic-cv.pdf">Academic CV</option>
   </select>
 </div>
 
